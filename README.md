@@ -1,5 +1,5 @@
 **Features:**
- (i) The array elements are represented as bars of varying heights, which change dynamically as the algorithms sort them.
+ (i)The array elements are represented as bars of varying heights, which change dynamically as the algorithms sort them.
  (ii) Users can adjust the size of the array and regenerate new arrays.
  (iii) The project includes a speed slider that allows users to control the speed of the visualizations.
  (iv) When an algorithm is selected, the interface locks other buttons to prevent interference during the visualization. It prints Time Complexity of selected algorithm also.
