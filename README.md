@@ -10,3 +10,5 @@
  3. JavaScript Functionality: Functions to generate the array, update its size dynamically, and handle the visual updates as the sorting algorithms progress. Visual updates during sorting are synchronized using 
  "setTimeout" to create illusion of motion. To enhance the interactivity, "disable_buttons" function is implemented that locks the interface during the sorting process to prevent user input that could interfere 
  with the visualization.
+## Visualization Logic:
+The "div_update" function is responsible for changing the height and color of the bars during sorting. This function uses a delay mechanism to pace the updates, making the sorting process visually comprehensible.
